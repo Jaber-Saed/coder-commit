@@ -37,7 +37,7 @@
           "dark": "images/icon.svg",
           "light": "images/icon.svg"
         },
-        "title": "Gen Commit ✨"
+        "title": "Coder Commit"
       }
     ],
     "configuration": {
@@ -108,12 +108,12 @@
         },
         "coder-commit.API_BASE_URL": {
           "default": "",
-          "description": "OpenAI BASE URL",
+          "description": "API BASE URL ex:'https://api.openai.com/v1'",
           "type": "string"
         },
         "coder-commit.MODEL": {
           "default": "",
-          "description": "Set AI  MODEL",
+          "description": "Set Name of AI Model ex:'gpt-3.5-turbo'",
           "type": "string"
         }
       },
