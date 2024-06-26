@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
 
-import aiCommitController from './coder-commit-controller';
+import aiCommitController from './acoder-commit-controller';
 
 export async function activate(context: vscode.ExtensionContext) {
   context.subscriptions.push(
