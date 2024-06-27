@@ -37,7 +37,7 @@
           "dark": "images/icon.svg",
           "light": "images/icon.svg"
         },
-        "title": "Coder Commit"
+        "title": " Gen Commit ✨"
       }
     ],
     "configuration": {
@@ -117,7 +117,7 @@
           "type": "string"
         }
       },
-      "title": "Gen Commit ✨"
+      "title": "Coder Commit"
     },
     "menus": {
       "scm/title": [
